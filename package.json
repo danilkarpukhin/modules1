@@ -1,0 +1,29 @@
+{
+  "name": "modul",
+  "version": "1.0.0",
+  "description": "1st",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilkarpukhin/ajs-homeworks.git"
+  },
+  "keywords": [
+    "5979"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilkarpukhin/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/danilkarpukhin/ajs-homeworks#readme"
+}
